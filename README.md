@@ -8,7 +8,7 @@ Java project, from Hamburg University (Germany), for buying cinema tickets.
 
 # Screenshots
 
-![GUI main window](https://github.com/zerosk8/cinema-tickets-java/blob/master/blob/master/documentation/images/gui_main_window.png)
+![GUI main window](https://github.com/zerosk8/cinema-tickets-java/blob/master/documentation/images/gui_main_window.png)
 
 ![GUI seats selection](https://github.com/zerosk8/cinema-tickets-java/blob/master/documentation/images/gui_seats_selection.png)
 
